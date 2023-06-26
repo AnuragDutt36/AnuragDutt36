@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anuragdutt36" target="blank"><img align="center" src="https://www.effa.nl/wp-content/uploads/2018/01/linkedin-logo-1024x1024.png" alt="anuragdutt36" height="30" width="35" /></a>
+<a href="https://www.linkedin.com/in/anuragdutt36" target="blank"><img align="center" src="https://www.effa.nl/wp-content/uploads/2018/01/linkedin-logo-1024x1024.png" alt="anuragdutt36" height="30" width="32" /></a>
 <a href="https://instagram.com/dutt.java" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dutt.java" height="30" width="40" /></a>
 <a href="https://discord.gg/Anurag Dutt#8645" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Anurag Dutt#8645" height="37" width="42" /></a>
 
