@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnuragDutt36&label=Profile%20views&color=0e75b6&style=flat" alt="AnuragDutt36" /> </p>
 
-- :mortar_board: I'm a **dedicated BCA student** with a **thirst for knowledge and a love for coding**. In just one year, I've dived deep into the world of programming, mastering languages like **C, C++, Python, Java, and web technologies such as HTML, CSS, and JavaScript**. I've even explored popular **frameworks like Bootstrap and Tailwind** to create stunning web experiences.
+- :mortar_board: I'm a **dedicated BCA student** with a **thirst for knowledge and a love for coding**. In just one year, I've dived deep into the world of programming, mastering languages like **C, C++, Java, and web technologies such as HTML, CSS, and JavaScript**. I've even explored popular **frameworks like Bootstrap and Tailwind** to create stunning web experiences.
 
 - :bulb: Currently, my **focus lies in Java**. I'm on a mission to **unlock its full potential**. I recently **joined the "Java with DSA & System Design" course by PW Skills**, equipping myself with a solid foundation. However, I'm hungry for more and excited to **delve into the advanced realms of Java** in the near future.
 
